@@ -1,3 +1,6 @@
 [submodule "helloWeb"]
 	path = helloWeb
 	url = ./helloWeb/
+[submodule "spikes"]
+	path = spikes
+	url = /spikes
