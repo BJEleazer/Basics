@@ -4,3 +4,6 @@
 [submodule "spikes"]
 	path = spikes
 	url = /spikes
+[submodule "lpython"]
+	path = lpython
+	url = ./lpython
